@@ -1,1 +1,1 @@
-Hello, the new project in ALX programm
+Hi, the new project in ALX programm
